@@ -60,3 +60,7 @@ While all models performed well, the XGBoost algorithm outperformed the others w
 - IBM. 2022c. [What Is the k-Nearest Neighbors Algorithm?](https://www.ibm.com/topics/knn)
 - NVIDIA. 2022. [What Is XGBoost?](https://www.nvidia.com/en-us/glossary/data-science/xgboost/)
 
+### For more detailed information of this project please refer to the Home Loan Eligibility Automation Using Machine Learning
+report. 
+
+
